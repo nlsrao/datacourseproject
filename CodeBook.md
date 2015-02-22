@@ -72,6 +72,6 @@ In order to create an independent tidy data set with the average of each variabl
 
 * ***avgvals*** stores the tidy data set with the average of each variable for each activity and each subject of the required features
 
-* ***average_values.txt*** containes the data of avgvals written into text file.
+* ***average_values.txt*** containes the data of ***avgvals*** written into text file.
 
 
